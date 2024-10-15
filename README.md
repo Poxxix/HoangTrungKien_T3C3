@@ -5,20 +5,6 @@
 
 Tôi là một lập trình viên trẻ đầy nhiệt huyết với niềm đam mê trong việc phát triển các ứng dụng di động và front-end. Tôi luôn tìm kiếm các cơ hội mới để học hỏi và phát triển kỹ năng lập trình, đặc biệt là trong các công nghệ hiện đại như React và JavaScript.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f6v1HAqfj2svgGAqh9/giphy.gif" alt="Usagi Chiikawa GIF">
-</p>
-
----
-
-### 🛠️ Video sprint 1
-
-<p align="center">
-  <a href="https://youtu.be/VfTGwv3JKOk?si=TPgH1FM-28urCHK4">
-    <img src="https://img.youtube.com/vi/VfTGwv3JKOk/0.jpg" alt="Video Thumbnail" width="480" height="360">
-  </a>
-</p>
-
 
 ---
 
