@@ -1,9 +1,9 @@
 # 👋 Xin chào, tôi là Hoàng Trung Kiên!
 
 
-### 🚀 Lập trình viên đam mê | 📱 Yêu thích phát triển di động | 💻 Chuyên gia Front-end
+### 🚀 Lập trình viên đam mê | 📱 Yêu thích UI/UX | 💻 Chuyên gia Front-end
 
-Tôi là một lập trình viên trẻ đầy nhiệt huyết với niềm đam mê trong việc phát triển các ứng dụng di động và front-end. Tôi luôn tìm kiếm các cơ hội mới để học hỏi và phát triển kỹ năng lập trình, đặc biệt là trong các công nghệ hiện đại như React và JavaScript.
+Tôi là một lập trình viên trẻ đầy nhiệt huyết với niềm đam mê trong việc UI/UX và front-end. Tôi luôn tìm kiếm các cơ hội mới để học hỏi và phát triển kỹ năng lập trình, đặc biệt là trong các công nghệ hiện đại như React và JavaScript và các phần mềm thiết kế 
 
 
 ---
@@ -17,6 +17,7 @@ Tôi là một lập trình viên trẻ đầy nhiệt huyết với niềm đam
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
