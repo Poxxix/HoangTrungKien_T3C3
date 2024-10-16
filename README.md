@@ -1,4 +1,5 @@
-# 👋 Xin chào, tôi là Hoàng Trung Kiên!
+# 👋 Xin chào, tôi là Hoàng Trung Kiên - T3C3!
+
 
 
 ### 🚀 Lập trình viên đam mê | 📱 Yêu thích UI/UX | 💻 Chuyên gia Front-end
