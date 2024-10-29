@@ -68,9 +68,11 @@ Nếu có thắc mắc hay muốn hợp tác, đừng ngần ngại liên hệ v
 ---
 
 ### 🚀 Công nghệ đang học
-- TypeScript
-- Next.js
-- Tailwind CSS
+>- TypeScript
+>- Next.js
+>- Tailwind CSS
+
+  ---
 
 ### 🌍 Bản đồ lượt truy cập
 
