@@ -62,10 +62,15 @@ Nếu có thắc mắc hay muốn hợp tác, đừng ngần ngại liên hệ v
 
 ### 🌟  Câu nói truyền cảm hứng
 
-> _"Kiên hơi đẹp trai"_  
+> _"Kiên khá đẹp trai"_  
 — **Hoàng Trung Kiên**
 
 ---
+
+### 🚀 Công nghệ đang học
+- TypeScript
+- Next.js
+- Tailwind CSS
 
 ### 🌍 Bản đồ lượt truy cập
 
