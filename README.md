@@ -1,4 +1,4 @@
-# 👋 Xin chào, tôi là Hoàng Trung Kiên - T3C3!
+# 👋 Xin chào, tôi là Hoàng Trung Kiên 
 
 
 
